@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+ 
+ 
+.cardProfile {
+    background-color: #fff;
+border-radius: 10px;
+box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+display: flex;
+max-width: 100%;
+overflow: hidden;
+width: 500px;
+height: 200px;
+    font-family: 'Muli', sans-serif;
+margin: 10px 0;
+justify-content: center;
+overflow-y: scroll;
+}
+ 
+.desc {
+display: flex;
+}
+ 
+.gambar {
+background-color: #2A265F;
+padding: 30px;
+}
+ 
+.classView {
+display: inline;
+padding: 20px;
+}
+ 
+.nama {
+font-size: 15px;
+font-weight: bold;
+margin-bottom:5px ;
+}
+ 
+.nim {
+font-size: 15px;
+margin-bottom: 5px;
+font-weight: 200;
+text-align: end;
+}
+ 
+.uraian {
+font-size: 13px;
+margin-bottom: 10px;
+font-weight: 100;
+}
+ 
+.classButton {
+width: 30%;
+display: inline;
+}
+ 
+.btng {
+background-color: #000;
+border: 0;
+border-radius: 50px;
+box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+color: #fff;
+font-size: 15px;
+padding: 5px;
+letter-spacing: 1px;
+margin: 5px 3px 15px 3px;
+}
+.btni {
+background-image: linear-gradient(to top right, #ffdc80, #fcaf45, #f77737, #f56040, #fd1d1d, #e1306c, #c13584, #b33ab4, #5851d8, #405de4);
+border: 0;
+border-radius: 50px;
+box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+color: #fff;
+font-size: 15px;
+padding: 5px 7px;
+letter-spacing: 1px;
+margin: 5px 3px;
+}
+.btnw {
+background-color: #25d366;
+border: 0;
+border-radius: 50px;
+box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+color: #fff;
+font-size: 15px;
+padding: 5px 7px;
+letter-spacing: 1px;
+margin: 5px 3px;
+}
+.btnl {
+background-color: #0077b5;
+border: 0;
+border-radius: 50px;
+box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+color: #fff;
+font-size: 15px;
+padding: 5px 7px;
+letter-spacing: 1px;
+margin: 5px 3px;
+}
+ 
+.gIcon {
+width: 25px;
+height: 20px;
+}
